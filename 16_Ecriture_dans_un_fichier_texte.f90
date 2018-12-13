@@ -1,4 +1,4 @@
-program prog3
+program Ecriture_fichier_texte
 	implicit none
 	real :: dt, c, alpha
 	integer :: Nx, Nb_iter
